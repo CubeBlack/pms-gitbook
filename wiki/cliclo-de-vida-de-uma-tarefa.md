@@ -2,6 +2,8 @@
 
 Ciclo de vida de uma tarefa proposto:
 
+
+
 <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### To do - A fazer
@@ -11,6 +13,8 @@ Ciclo de vida de uma tarefa proposto:
 ### To Test - Deve ser testado
 
 ### To document - Deve se documentaddo
+
+### To Publish - Publicar
 
 ### Completed - Tarefa concluida
 
